@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 This project is the backend of Vidly, an imaginary video rental app. I've used Vidly as an example in several of my online programming courses, such as:
 
@@ -42,11 +42,11 @@ All tests should pass.
 
     node index.js
 
-This will launch the Node server on port 3900. If that port is busy, you can set a different point in config/default.json.
+This will launch the Node server on port 3003. If that port is busy, you can set a different point in config/default.json.
 
 Open up your browser and head over to:
 
-http://localhost:3900/api/genres
+http://localhost:3003/api/genres
 
 You should see the list of genres. That confirms that you have set up everything successfully.
 
